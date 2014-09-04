@@ -1,0 +1,5 @@
+web:
+    build: .
+    command: sails lift
+    ports: 
+        - "1337:1337"
